@@ -1,6 +1,6 @@
 👋 Hi, I'm Ayan Khan
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=#FFFF00&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Building" />
 
 💻 CSE Student | JAVA | MERN Stack Developer
 
