@@ -57,12 +57,6 @@ Tech: React.js • Backend APIs • AI/ML • Database
 
 ---
 
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayankhan47&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
 🐍 Contribution
 
 <p align="center">
