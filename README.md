@@ -59,10 +59,7 @@ Tech: React.js • Backend APIs • AI/ML • Database
 
 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayankhan47&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayankhan47&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayankhan47&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
